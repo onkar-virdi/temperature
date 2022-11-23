@@ -1,2 +1,2 @@
 # research
-software could be different types like system software, utility software or application software
+this is just practice i am doing to get my hands on python
